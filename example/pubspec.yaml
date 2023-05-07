@@ -1,5 +1,7 @@
 name: contact_picker_example
 description: Demonstrates how to use the contact_picker plugin.
+environment:
+  sdk: '>=2.19.4 <3.0.0'
 
 dependencies:
   flutter:
